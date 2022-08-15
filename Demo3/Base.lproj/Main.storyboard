@@ -40,10 +40,10 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wvd-5X-0Df">
-                                <rect key="frame" x="174" y="112" width="67" height="31"/>
+                                <rect key="frame" x="113" y="110" width="188" height="31"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="filled" title="Button"/>
+                                <buttonConfiguration key="configuration" style="filled" title="Enter long text"/>
                                 <connections>
                                     <segue destination="Qee-Wr-usD" kind="show" id="vBj-76-84B"/>
                                 </connections>
